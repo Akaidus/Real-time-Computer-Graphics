@@ -116,8 +116,8 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _RippleAmplitude: 0.01
-    - _RippleCount: 30
+    - _RippleAmplitude: 0
+    - _RippleCount: 0
     - _RippleFrequency: -12
     - _RipplePower: 0
     - _Smoothness: 0.5
